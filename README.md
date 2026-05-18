@@ -6,14 +6,14 @@
  ----------------------------------------------------------------- 
 
 
-# ☁️ AWS Cloud9 Python Exercises
+# AWS Cloud9 Python Exercises
 
 Repositorio de prácticas y ejercicios realizados en AWS Cloud9 utilizando Python.  
 Este proyecto fue desarrollado como parte de mi aprendizaje en programación, automatización y fundamentos de cloud computing con AWS.
 
 ---
 
-# 🚀 Objetivo
+# Objetivo
 
 El propósito de este repositorio es practicar conceptos fundamentales de:
 
@@ -27,7 +27,7 @@ El propósito de este repositorio es practicar conceptos fundamentales de:
 
 ---
 
-# 🛠️ Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 - Python 3
 - AWS Cloud9
@@ -36,7 +36,7 @@ El propósito de este repositorio es practicar conceptos fundamentales de:
 
 ---
 
-# 📂 Contenido del Proyecto
+# Contenido del Proyecto
 
 ## 🔹 Fundamentos de Python
 
@@ -97,19 +97,7 @@ Todos los ejercicios fueron ejecutados en:
 
 ---
 
-# 📸 Evidencias
-
-## AWS Cloud9 Environment
-
-![AWS Cloud9](docs/aws-cloud9-environment.png)
-
-## Ejecución de Scripts en Terminal
-
-![Terminal](docs/python-terminal.png)
-
----
-
-# 📚 Aprendizajes
+# Aprendizajes
 
 Durante estas prácticas desarrollé conocimientos en:
 
@@ -122,19 +110,12 @@ Durante estas prácticas desarrollé conocimientos en:
 - Trabajo con terminal Linux
 - Control de versiones con GitHub
 
----
-
-# 🔗 Repositorio
-
-Puedes consultar el proyecto completo aquí:
-
-[GitHub Repository](https://github.com/TU-USUARIO/TU-REPO)
 
 ---
 
 # 👩🏻‍💻 Autor
 
-**Angie**  
+**Anyelina Irene Vilchis Sierra**  
 Licenciada en Informática Administrativa  
 AWS Certified Cloud Practitioner ☁️
 
